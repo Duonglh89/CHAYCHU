@@ -1,0 +1,6 @@
+{
+  "name": "PrompterFlow - Máy Nhắc Chữ & Đọc Kịch Bản",
+  "description": "Ứng dụng máy nhắc chữ (Teleprompter) thông minh cho điện thoại và máy tính, cuộn tự động mượt mà, đồng bộ đa thiết bị thời gian thực, điều khiển từ xa, nhập từ Google Sheets và file văn bản.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
